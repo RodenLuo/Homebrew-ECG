@@ -1,0 +1,1 @@
+"./Tnokia_5110.obj" "./ECG_By_Timer.obj" -l"libc.a" "../lnk_msp430g2553.cmd" 
