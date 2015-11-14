@@ -1,6 +1,10 @@
 # Homebrew-ECG
 Solder ECG-monitor circuit on PCB, use MSP430G2553 to do AD conversion, Matlab and Nokia LCD5100 to display
 
+#Videos
+The entire run: https://youtu.be/eMTIR3OEqog
+The ECG wave: https://youtu.be/dxEka3Bg9_E
+
 # Folders
 ECG_By_Timer_CCS_code: [Code Composer Studio(CCS)](http://www.ti.com/tool/ccstudio) code for this project
 
